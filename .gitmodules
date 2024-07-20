@@ -1,0 +1,11 @@
+[submodule "Spiking_UNet"]
+  path = Spiking_UNet
+  url = https://github.com/SNNresearch/Spiking-UNet.git
+
+[submodule "mavis_refactored"]
+  path = mavis_refactored
+  url = https://github.com/M4D-SC1ENTIST/mavis_refactored.git
+
+[submodule "mavis_mujoco"]
+  path = mavis_mujoco
+  url = https://github.com/M4D-SC1ENTIST/mavis_mujoco.git
